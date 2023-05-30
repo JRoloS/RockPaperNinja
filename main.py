@@ -7,7 +7,7 @@ from kivy.uix.image import Image
 from kivy.uix.anchorlayout import AnchorLayout
 from kivy.uix.label import Label
 
-kivy.require('1.11.1')
+kivy.require('2.2.0')
 
 
 class RockPaperNinjaApp(App):
